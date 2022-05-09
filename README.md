@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Java Script and OOP
 - 💞️ I’m looking to collaborate on small projects so I can upgrade my knowlage.
-- 📫 Reach me on GIT Hub.
+- 📫 Reach me on Linkedin at https://www.linkedin.com/in/milos-majkic-757157230/.
 
 <!---
 crnimajkic/crnimajkic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
