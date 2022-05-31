@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Java Script and OOP
 - 💞️ I’m looking to collaborate on small projects so I can upgrade my knowlage.
-- 📫 Reach me on Linkedin at https://www.linkedin.com/in/milos-majkic-757157230/.
+- 📫 Reach me on Linkedin at www.linkedin.com/in/majkicmilos
 - 📫 Check out my codewars profile https://www.codewars.com/users/crnimajkic.
 
 <!---
