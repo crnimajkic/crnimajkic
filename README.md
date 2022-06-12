@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @crnimajkic
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Java Script and OOP
-- 💞️ I’m looking to collaborate on small projects so I can upgrade my knowlage.
-- 📫 Reach me on Linkedin at www.linkedin.com/in/majkicmilos
+- 🌱 I’m currently working on OOP in JavaScript, React and JQuery.
+- 💞️ I’m looking to collaborate on differente projects so I can upgrade my knowlage.
+- 📫 Reach me on Linkedin at www.linkedin.com/in/majkicmilos.
 - 📫 Check out my codewars profile https://www.codewars.com/users/crnimajkic.
 
 <!---
