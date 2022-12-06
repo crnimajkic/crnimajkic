@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @crnimajkic
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development using vanila JavaScript and Webflow.
 - 🌱 I’m currently working on OOP in JavaScript, React and JQuery.
 - 💞️ I’m looking to collaborate on differente projects so I can upgrade my knowlage.
 - 📫 Reach me on Linkedin at www.linkedin.com/in/majkicmilos.
