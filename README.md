@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crnimajkic
+- 👋 Hi, I’m @crnimajkic.
 - 👀 I’m interested in Web Development using JavaScript, Node.js, Express, React, MongoDB and other frameworks.
 - ![icons8-webflow-16](https://user-images.githubusercontent.com/105221872/210287480-d53353d1-8aa1-46ef-aa31-0dc7c625aafa.png)   I enjoy building websites for differente kind of businesses using webflow. [You want to see more?](https://crnimajkics-portfolio.webflow.io/)
 - 🌱 I’m currently working on Authentification and MVC architecture.
